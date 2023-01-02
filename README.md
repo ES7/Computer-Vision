@@ -1,5 +1,5 @@
 # Aruco-Placement-Section
-ID detector :- It will detect the IDs of all four aruco markers.
+ID detector.py :- It will detect the IDs of all four aruco markers.
 
 Atulya :- Here first I have imported all the necessary libraries 
 and images, then I have made a list of aruco markers and its ids,
@@ -18,3 +18,8 @@ square with black color, it will resize the corresponding aruco marker and rotat
 with the same angle as of square and then it will replace the square with marker.
 For loop will iterate four times as we have four squares and the final image is
 saved as new.jpg.
+
+Marker ID 1 on Green Square
+Marker ID 2 on Orange Square
+Marker ID 3 on Black Square
+Marker ID 4 on Pink Square

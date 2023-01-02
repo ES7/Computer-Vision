@@ -17,7 +17,7 @@ the color of each square by calling findColor function, then it will fill the
 square with black color, it will resize the corresponding aruco marker and rotate
 with the same angle as of square and then it will replace the square with marker.
 For loop will iterate four times as we have four squares and the final image is
-saved as new.jpg.
+saved as final.jpg.
 
 Marker ID 1 on Green Square
 Marker ID 2 on Orange Square

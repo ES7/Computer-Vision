@@ -1,1 +1,2 @@
 # Attendance System
+In the `images` folder there are images of students and the code written inside `Attendance System.py` file matches the face detected in real time and compares with the the images inside the `images` folder. If the face matches then it marks the attendance else display a message "Unknown". It creates a DataFrame of attendance and keeps appending the attendance of matched students. 

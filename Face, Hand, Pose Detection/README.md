@@ -1,4 +1,4 @@
-![image](https://github.com/ES7/Computer-Vision/assets/95970293/b13d8ffe-58ba-438b-8d81-86d7546ab512)# Mediapipe Library
+# Mediapipe Library
 MediaPipe is an open-source framework developed by Google that focuses on building applications involving real-time perception of human hands, body, and facial movements through computer vision and machine learning techniques. It provides a collection of pre-built components and tools that enable developers to create applications that can understand and interpret human gestures, poses, and actions from video or image inputs. </br>
 MediaPipe is designed to be versatile and customizable, making it suitable for a wide range of applications such as augmented reality experiences, virtual try-on, interactive games, health and fitness apps, and more. The framework abstracts away many complexities of computer vision and machine learning, allowing developers to focus on the application logic rather than the low-level implementation details.
 

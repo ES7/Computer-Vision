@@ -8,7 +8,7 @@ angle of each square and its height and width. The next if statments will check 
 square with black color, it will resize the corresponding aruco marker and rotate with the same angle as of square and then it will replace the square with marker.
 For loop will iterate four times as we have four squares and the final image is saved as **final.jpg**.
 
-Marker ID 1 on Green Square
-Marker ID 2 on Orange Square
-Marker ID 3 on Black Square
-Marker ID 4 on Pink Square
+Marker ID 1 on Green Square </br>
+Marker ID 2 on Orange Square </br>
+Marker ID 3 on Black Square </br> 
+Marker ID 4 on Pink Square 

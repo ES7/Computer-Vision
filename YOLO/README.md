@@ -13,6 +13,6 @@ and addressing limitations. </br>
 YOLO's real-time capabilities make it suitable for applications such as **object tracking**, **self-driving cars**, **surveillance**, and more. It has been widely adopted
 in the computer vision community and has contributed to the advancement of object detection techniques.
 ### The largest limitation and drawback of the YOLO object detector :
-It does not always handle small objects well
-It especially does not handle objects grouped close together
+It does not always handle small objects well </br>
+It especially does not handle objects grouped close together </br>
 The reason for this limitation is due to the YOLO algorithm itself
